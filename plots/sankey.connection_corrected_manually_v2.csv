@@ -1,0 +1,356 @@
+Country	Continent	n	source	birds_category	birds_category_short	target	crops_category	Comment
+USA	North America	1	finches	Fringillidae	Fringillidae	wine grapes	Fruit	
+USA	North America	1	robins	Turdidae	Turdidae	wine grapes	Fruit	
+USA	North America	1	starlings	Sturnidae	Sturnidae	wine grapes	Fruit	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	round plum	Fruit	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	red plum	Fruit	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	quinces	Fruit	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	persimoon	Fruit	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	pear	Fruit	
+Australia	Australia and Oceania	1	cockatoo	Cacatuidae	Others	pear	Fruit	
+India	Asia	1	rose-ringed parakeet	Psittacidae	Psittacidae	guava	Fruit	
+India	Asia	1	rose-ringed parakeet	Psittacidae	Psittacidae	guava	Fruit	
+Portugal	Europe	1	common pigeon	Columbidae	Columbidae	grape	Fruit	
+Portugal	Europe	1	woodpigeon	Columbidae	Columbidae	grape	Fruit	
+Australia	Australia and Oceania	1	crimson rosellas	Psittacidae	Psittacidae	grape	Fruit	
+Portugal	Europe	1	blackbird	Turdidae	Turdidae	grape	Fruit	
+USA	North America	1	blackbirds	Turdidae	Turdidae	grape	Fruit	
+Australia	Australia and Oceania	1	noisy friarbirds	Meliphagidae	Others	grape	Fruit	
+Australia	Australia and Oceania	1	noisy miners	Meliphagidae	Others	grape	Fruit	
+Australia	Australia and Oceania	1	with red wattlebirds	Meliphagidae	Others	grape	Fruit	
+Australia	Australia and Oceania	1	yellow-faced honeyeaters	Meliphagidae	Others	grape	Fruit	
+Australia	Australia and Oceania	1	pied currawongs	Artamidae	Others	grape	Fruit	
+Australia	Australia and Oceania	1	silvereyes	Zosteropidae	Others	grape	Fruit	
+India	Asia	1	mynah	Sturnidae	Sturnidae	grape	Fruit	
+Spain	Europe	1	spotless starling	Sturnidae	Sturnidae	grape	Fruit	
+Australia	Australia and Oceania	1	starlings	Sturnidae	Sturnidae	grape	Fruit	
+Canada	North America	1	starlings	Sturnidae	Sturnidae	grape	Fruit	
+Portugal	Europe	1	house sparrow	Passeridae	Passeridae	grape	Fruit	
+Greece	Europe	1	corvid	Corvidae	Corvidae	fruit	Fruit	
+Greece	Europe	1	starling	Sturnidae	Sturnidae	fruit	Fruit	
+Algeria	Africa	1	sparrow	Passeridae	Passeridae	date palm	Fruit	
+USA	North America	1	blackbirds	Turdidae	Turdidae	cherry	Fruit	
+USA	North America	1	blackbirds	Turdidae	Turdidae	cherry	Fruit	
+USA	North America	1	finches	Fringillidae	Fringillidae	blueberries	Fruit	
+USA	North America	1	robins	Turdidae	Turdidae	blueberries	Fruit	
+USA	North America	1	starlings	Sturnidae	Sturnidae	blueberries	Fruit	
+Spain	Europe	1	blackbirds	Turdidae	Turdidae	blueberries	Fruit	
+Australia	Australia and Oceania	1	cockatoo	Cacatuidae	Others	apple	Fruit	
+Poland	Europe	1	jackdaw	Corvidae	Corvidae	wheat	Cereals	
+Poland	Europe	1	rook	Corvidae	Corvidae	wheat	Cereals	
+France	Europe	1	carrion crows	Corvidae	Corvidae	wheat	Cereals	
+India	Asia	1	crow	Corvidae	Corvidae	wheat	Cereals	
+Poland	Europe	1	jackdaw	Corvidae	Corvidae	wheat	Cereals	
+Poland	Europe	1	rook	Corvidae	Corvidae	wheat	Cereals	
+France	Europe	1	rooks	Corvidae	Corvidae	wheat	Cereals	
+New Zealand	Australia and Oceania	1	greenfinches	Fringillidae	Fringillidae	wheat	Cereals	
+Argentina	South America	1	ashy-headed goose	Anatidae	Anatidae	wheat	Cereals	
+Germany	Europe	1	bean geese	Anatidae	Anatidae	wheat	Cereals	
+Sweden	Europe	2	geese	Anatidae	Anatidae	wheat	Cereals	
+USA	North America	1	geese	Anatidae	Anatidae	wheat	Cereals	
+United Kingdom	Europe	1	geese	Anatidae	Anatidae	wheat	Cereals	
+Argentina	South America	1	goose	Anatidae	Anatidae	wheat	Cereals	
+Argentina	South America	1	sheldgeese	Anatidae	Anatidae	wheat	Cereals	
+Sweden	Europe	2	swans	Anatidae	Anatidae	wheat	Cereals	
+Argentina	South America	1	Goose	Anatidae	Anatidae	wheat	Cereals	
+Germany	Europe	1	white-fronted geese	Anatidae	Anatidae	wheat	Cereals	
+India	Asia	1	weaver	Ploceidae	Ploceidae	wheat	Cereals	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	wheat	Cereals	
+South Africa	Africa	1	crane	Gruidae	Gruidae	wheat	Cereals	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	wheat	Cereals	
+India	Asia	1	mynah	Sturnidae	Sturnidae	wheat	Cereals	
+Egypt	Africa	1	house sparrow	Passeridae	Passeridae	wheat	Cereals	
+India	Asia	1	house sparrow	Passeridae	Passeridae	wheat	Cereals	
+New Zealand	Australia and Oceania	1	house sparrows	Passeridae	Passeridae	wheat	Cereals	
+New Zealand	Australia and Oceania	1	sparrow	Passeridae	Passeridae	wheat	Cereals	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	triticale	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	sweet corn	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	sweet corn	Cereals	
+USA	North America	1	european starlings 	Sturnidae	Sturnidae	sweet corn	Cereals	
+Kenya	Africa	1	african mourning doves	Columbidae	Columbidae	sorghum	Cereals	Selection birds family count ≥5 were included others were put into “Others” category
+Brazil	South America	1	picazuro pigeon	Columbidae	Columbidae	sorghum	Cereals	
+Brazil	South America	1	ruddy ground dove	Columbidae	Columbidae	sorghum	Cereals	
+USA	North America	1	quelea	Ploceidae	Ploceidae	sorghum	Cereals	
+Senegal	Africa	1	quelea	Ploceidae	Ploceidae	sorghum	Cereals	
+Kenya	Africa	1	weavers	Ploceidae	Ploceidae	sorghum	Cereals	
+Senegal	Africa	1	weavers	Ploceidae	Ploceidae	sorghum	Cereals	
+Zambia	Africa	1	black-cheeked lovebird 	Psittacidae	Psittacidae	sorghum	Cereals	
+Brazil	South America	1	white-eyed parakeet	Psittacidae	Psittacidae	sorghum	Cereals	
+Brazil	South America	1	blue-black grassquit	Thraupidae	Others	sorghum	Cereals	
+Venezuela	South America	1	dickcissel	Cardinalidae	Others	sorghum	Cereals	
+Philippines	Asia	1	sparrow	Passeridae	Passeridae	sorghum	Cereals	
+Senegal	Africa	1	sparrow	Passeridae	Passeridae	sorghum	Cereals	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	rye	Cereals	
+Myanmar	Asia	1	spotted dove	Columbidae	Columbidae	rice	Cereals	
+Myanmar	Asia	1	lesser whistling duck	Anatidae	Anatidae	rice	Cereals	
+China	Asia	1	mallards	Anatidae	Anatidae	rice	Cereals	
+China	Asia	1	spot-billed ducks	Anatidae	Anatidae	rice	Cereals	
+Myanmar	Asia	1	baya weaver	Ploceidae	Ploceidae	rice	Cereals	
+Chad	Africa	1	quelea	Ploceidae	Ploceidae	rice	Cereals	
+Senegal	Africa	1	quelea	Ploceidae	Ploceidae	rice	Cereals	
+Senegal	Africa	1	red-billed quelea	Ploceidae	Ploceidae	rice	Cereals	
+Benin	Africa	1	weavers	Ploceidae	Ploceidae	rice	Cereals	
+India	Asia	1	crane	Gruidae	Gruidae	rice	Cereals	
+USA	North America	3	blackbirds	Turdidae	Turdidae	rice	Cereals	
+USA	North America	2	blackbirds	Turdidae	Turdidae	rice	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	rice	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	rice	Cereals	
+Mexico	North America	1	blackbirds	Turdidae	Turdidae	rice	Cereals	
+USA	North America	1	cowbirds	Icteridae	Others	rice	Cereals	
+Mexico	North America	1	cowbirds	Icteridae	Others	rice	Cereals	
+Venezuela	South America	1	dickcissel	Cardinalidae	Others	rice	Cereals	
+France	Europe	2	flamingo	Phoenicopteridae	Others	rice	Cereals	
+Portugal	Europe	1	glossy ibis	Threskiornithidae	Others	rice	Cereals	
+Myanmar	Asia	1	scaly-breasted munia	Estrildidae	Others	rice	Cereals	
+Myanmar	Asia	1	purple swamphen	Rallidae	Others	rice	Cereals	
+Spain	Europe	1	purple swamphen	Rallidae	Others	rice	Cereals	
+Portugal	Europe	1	white stork	Ciconiidae	Others	rice	Cereals	
+Myanmar	Asia	1	eurasian tree sparrow	Passeridae	Passeridae	rice	Cereals	
+Japan	Asia	1	sparrow	Passeridae	Passeridae	rice	Cereals	
+India	Asia	1	munia	Estrildidae	Others	pearl millet	Cereals	
+India	Asia	1	indian peafowl	Phasianidae	Phasianidae	paddy	Cereals	
+Poland	Europe	1	jackdaw	Corvidae	Corvidae	oats	Cereals	
+Poland	Europe	1	rook	Corvidae	Corvidae	oats	Cereals	
+Sweden	Europe	2	geese	Anatidae	Anatidae	Oats	Cereals	
+Sweden	Europe	2	swans	Anatidae	Anatidae	Oats	Cereals	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	Oats	Cereals	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	Oats	Cereals	
+Senegal	Africa	1	quelea	Ploceidae	Ploceidae	millet	Cereals	
+Senegal	Africa	1	weavers	Ploceidae	Ploceidae	millet	Cereals	
+Zambia	Africa	1	black-cheeked lovebird 	Psittacidae	Psittacidae	millet	Cereals	
+Bangladesh	Asia	1	munia	Estrildidae	Others	millet	Cereals	
+Senegal	Africa	1	sparrow	Passeridae	Passeridae	millet	Cereals	
+Germany	Europe	1	feral pigeon	Columbidae	Columbidae	maize	Cereals	
+France	Europe	1	carrion crows	Corvidae	Corvidae	maize	Cereals	
+Italy	Europe	1	corvids	Corvidae	Corvidae	maize	Cereals	
+India	Asia	1	house crow	Corvidae	Corvidae	maize	Cereals	
+Pakistan	Asia	1	house crow	Corvidae	Corvidae	maize	Cereals	
+Poland	Europe	1	jackdaw	Corvidae	Corvidae	maize	Cereals	
+France	Europe	1	jackdaws	Corvidae	Corvidae	maize	Cereals	
+Poland	Europe	1	rook	Corvidae	Corvidae	maize	Cereals	
+France	Europe	1	rooks	Corvidae	Corvidae	maize	Cereals	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	maize	Cereals	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	maize	Cereals	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	maize	Cereals	
+China	Asia	1	garganey	Anatidae	Anatidae	maize	Cereals	
+China	Asia	1	greylag goose	Anatidae	Anatidae	maize	Cereals	
+China	Asia	1	mallard	Anatidae	Anatidae	maize	Cereals	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	maize	Cereals	
+India	Asia	1	rose-ringed parakeet	Psittacidae	Psittacidae	maize	Cereals	
+Brazil	South America	1	white-eyed parakeet	Psittacidae	Psittacidae	maize	Cereals	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	maize	Cereals	
+Australia	Australia and Oceania	1	common crane	Gruidae	Gruidae	maize	Cereals	
+China	Asia	1	gray crane	Gruidae	Gruidae	maize	Cereals	
+China	Asia	1	great egret	Ardeidae	Ardeidae	maize	Cereals	
+Brazil	South America	1	picazuro pigeon	Columbidae	Columbidae	corn	Cereals	
+Brazil	South America	1	ruddy ground dove	Columbidae	Columbidae	corn	Cereals	
+USA	North America	1	american crows	Corvidae	Corvidae	corn	Cereals	
+Argentina	South America	1	monk parakeet	Psittacidae	Psittacidae	corn	Cereals	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	corn	Cereals	
+Brazil	South America	1	white-eyed parakeet	Psittacidae	Psittacidae	corn	Cereals	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	corn	Cereals	
+USA	North America	1	sandhill cranes	Gruidae	Gruidae	corn	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	corn	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	corn	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	corn	Cereals	
+Canada	North America	1	blackbirds	Turdidae	Turdidae	corn	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	corn	Cereals	
+USA	North America	1	blackbirds	Turdidae	Turdidae	corn	Cereals	
+Brazil	South America	1	blue-black grassquit	Thraupidae	Others	corn	Cereals	
+USA	North America	1	ring-billed gulls	Laridae	Others	corn	Cereals	
+USA	North America	1	wild turkey	Phasianidae	Phasianidae	corn	Cereals	
+USA	North America	1	starlings	Sturnidae	Sturnidae	corn	Cereals	
+France	Europe	1	jackdaws	Corvidae	Corvidae	cereal	Cereals	
+Sweden	Europe	1	geese	Anatidae	Anatidae	cereal	Cereals	
+Greece	Europe	1	corvid	Corvidae	Corvidae	cereal	Cereals	
+Spain	Europe	1	great bustard	Otididae	Others	cereal	Cereals	
+Greece	Europe	1	starling	Sturnidae	Sturnidae	cereal	Cereals	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	garganey	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	greylag goose	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	mallard	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	buckwheat	Cereals	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	buckwheat	Cereals	
+China	Asia	1	gray crane	Gruidae	Gruidae	buckwheat	Cereals	
+China	Asia	1	great egret	Ardeidae	Ardeidae	buckwheat	Cereals	
+New Zealand	Australia and Oceania	1	mallard	Anatidae	Anatidae	barley	Cereals	
+Poland	Europe	1	jackdaw	Corvidae	Corvidae	barley	Cereals	
+Poland	Europe	1	rook	Corvidae	Corvidae	barley	Cereals	
+New Zealand	Australia and Oceania	1	greenfinches	Fringillidae	Fringillidae	barley	Cereals	
+Germany	Europe	1	bean geese	Anatidae	Anatidae	barley	Cereals	
+Sweden	Europe	2	geese	Anatidae	Anatidae	barley	Cereals	
+Sweden	Europe	2	swans	Anatidae	Anatidae	barley	Cereals	
+Germany	Europe	1	white-fronted geese	Anatidae	Anatidae	barley	Cereals	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	barley	Cereals	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	barley	Cereals	
+New Zealand	Australia and Oceania	1	house sparrows	Passeridae	Passeridae	barley	Cereals	
+New Zealand	Australia and Oceania	1	sparrow	Passeridae	Passeridae	barley	Cereals	
+Pakistan	Asia	1	house crow	Corvidae	Corvidae	watermelon	Vegetables and melons	
+Pakistan	Asia	1	common myna	Sturnidae	Sturnidae	watermelon	Vegetables and melons	
+Spain	Europe	1	house sparrow	Passeridae	Passeridae	watermelon	Vegetables and melons	
+Israel	Asia	1	feral pigeon	Columbidae	Columbidae	vegetable sprouts	Vegetables and melons	
+Israel	Asia	1	house sparrow	Passeridae	Passeridae	vegetable sprouts	Vegetables and melons	
+Spain	Europe	1	monk parakeet	Psittacidae	Psittacidae	tomato	Vegetables and melons	
+Spain	Europe	1	house sparrow	Passeridae	Passeridae	tomato	Vegetables and melons	
+Spain	Europe	1	house sparrow	Passeridae	Passeridae	sqash	Vegetables and melons	
+Israel	Asia	1	partridges	Phasianidae	Phasianidae	sprouts	Vegetables and melons	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	garganey	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	greylag goose	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	mallard	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	spinach	Vegetables and melons	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	spinach	Vegetables and melons	
+China	Asia	1	gray crane	Gruidae	Gruidae	spinach	Vegetables and melons	
+China	Asia	1	great egret	Ardeidae	Ardeidae	spinach	Vegetables and melons	
+New Zealand	Australia and Oceania	1	greenfinches	Fringillidae	Fringillidae	raddish	Vegetables and melons	
+New Zealand	Australia and Oceania	1	house sparrows	Passeridae	Passeridae	raddish	Vegetables and melons	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	garganey	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	greylag goose	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	mallard	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	napa cabbage	Vegetables and melons	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	napa cabbage	Vegetables and melons	
+China	Asia	1	gray crane	Gruidae	Gruidae	napa cabbage	Vegetables and melons	
+China	Asia	1	great egret	Ardeidae	Ardeidae	napa cabbage	Vegetables and melons	
+Egypt	Africa	1	house sparrow	Passeridae	Passeridae	melon	Vegetables and melons	
+USA	North America	1	horned larks	Alaudidae	Others	lettuce	Vegetables and melons	
+Sweden	Europe	1	geese	Anatidae	Anatidae	carrots	Vegetables and melons	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	carrots	Vegetables and melons	
+Japan	Asia	1	mallards	Anatidae	Anatidae	cabbage	Vegetables and melons	
+Japan	Asia	1	spot-billed ducks	Anatidae	Anatidae	cabbage	Vegetables and melons	
+United Kingdom	Europe	1	wood pigeon 	Columbidae	Columbidae	brussel-sprout	Vegetables and melons	
+India	Asia	1	red-vented bulbul	Pycnonotidae	Others	brinjal	Vegetables and melons	
+India	Asia	1	common myna	Sturnidae	Sturnidae	brinjal	Vegetables and melons	
+India	Asia	1	egrets	Ardeidae	Ardeidae	brinjal	Vegetables and melons	
+Spain	Europe	1	great bustard	Otididae	Others	vetch	Other Crops	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	protein mix	Other Crops	
+USA	North America	1	mourning doves	Columbidae	Columbidae	industrial hemp	Other Crops	
+USA	North America	1	american goldfinches	Fringillidae	Fringillidae	industrial hemp	Other Crops	
+USA	North America	1	house finches	Fringillidae	Fringillidae	industrial hemp	Other Crops	
+Canada	North America	1	geese	Anatidae	Anatidae	hay	Other Crops	
+Norway	Europe	1	arctic-breeding pink-footed	Anatidae	Anatidae	grass	Other Crops	
+The Netherlands	Europe	1	barnacle geese	Anatidae	Anatidae	grass	Other Crops	
+Norway	Europe	1	barnacle geese.	Anatidae	Anatidae	grass	Other Crops	
+The Netherlands	Europe	1	geese	Anatidae	Anatidae	grass	Other Crops	
+United Kingdom	Europe	1	greylag geese	Anatidae	Anatidae	grass	Other Crops	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	grass	Other Crops	
+Spain	Europe	1	great bustard	Otididae	Others	lucerne	Other Crops	
+Sweden	Europe	1	geese	Anatidae	Anatidae	ley	Other Crops	
+Greece	Europe	1	corvid	Corvidae	Corvidae	cotton	Other Crops	
+Greece	Europe	1	starling	Sturnidae	Sturnidae	cotton	Other Crops	
+South Africa	Africa	1	crane	Gruidae	Gruidae	sweet lupin	Leguminous 	
+Poland	Europe	1	jackdaw	Corvidae	Corvidae	peas	Leguminous 	
+Poland	Europe	1	rook	Corvidae	Corvidae	peas	Leguminous 	
+New Zealand	Australia and Oceania	1	greenfinches	Fringillidae	Fringillidae	peas	Leguminous 	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	peas	Leguminous 	
+New Zealand	Australia and Oceania	1	house sparrows	Passeridae	Passeridae	peas	Leguminous 	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	garganey	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	greylag goose	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	mallard	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	pea shoots	Leguminous 	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	pea shoots	Leguminous 	
+China	Asia	1	gray crane	Gruidae	Gruidae	pea shoots	Leguminous 	
+China	Asia	1	great egret	Ardeidae	Ardeidae	pea shoots	Leguminous 	
+France	Europe	1	carrion crows	Corvidae	Corvidae	pea	Leguminous 	
+France	Europe	1	rooks	Corvidae	Corvidae	pea	Leguminous 	
+South Africa	Africa	1	crane	Gruidae	Gruidae	medics	Leguminous 	
+Sweden	Europe	2	geese	Anatidae	Anatidae	legumes	Leguminous 	
+Sweden	Europe	2	swans	Anatidae	Anatidae	legumes	Leguminous 	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	legumes	Leguminous 	
+Spain	Europe	1	house sparrow	Passeridae	Passeridae	green beans	Leguminous 	
+Egypt	Africa	1	house sparrow	Passeridae	Passeridae	cowpea	Leguminous 	
+United Kingdom	Europe	1	feral pigeon	Columbidae	Columbidae	beans	Leguminous 	
+India	Asia	1	house crow	Corvidae	Corvidae	beans	Leguminous 	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	beans	Leguminous 	
+USA	North America	1	blackbirds	Turdidae	Turdidae	sunflower	Oilseed	
+Argentina	South America	1	eared doves 	Columbidae	Columbidae	sunflower	Oilseed	
+Romania	Europe	1	feral pigeon	Columbidae	Columbidae	sunflower	Oilseed	
+France	Europe	1	wood pigeons	Columbidae	Columbidae	sunflower	Oilseed	
+France	Europe	1	carrion crows	Corvidae	Corvidae	sunflower	Oilseed	
+France	Europe	1	carrion crows	Corvidae	Corvidae	sunflower	Oilseed	
+Romania	Europe	1	rook	Corvidae	Corvidae	sunflower	Oilseed	
+France	Europe	1	rooks	Corvidae	Corvidae	sunflower	Oilseed	
+Argentina	South America	1	monk parakeet	Psittacidae	Psittacidae	sunflower	Oilseed	
+Bangladesh	Asia	1	parakeets	Psittacidae	Psittacidae	sunflower	Oilseed	
+India	Asia	1	parakeets	Psittacidae	Psittacidae	sunflower	Oilseed	
+Israel	Asia	1	rose-ringed parakeet	Psittacidae	Psittacidae	sunflower	Oilseed	
+USA	North America	10	blackbirds	Turdidae	Turdidae	sunflower	Oilseed	
+USA	North America	1	blackbirds	Turdidae	Turdidae	sunflower	Oilseed	
+USA	North America	1	blackbirds	Turdidae	Turdidae	sunflower	Oilseed	
+USA	North America	1	blackbirds	Turdidae	Turdidae	sunflower	Oilseed	
+USA	North America	1	common rackles	Icteridae	Others	sunflower	Oilseed	
+USA	North America	1	ring-necked pheasants	Phasianidae	Phasianidae	sunflower	Oilseed	
+India	Asia	1	feral pigeon	Columbidae	Columbidae	soybean	Oilseed	
+India	Asia	1	spotted dove	Columbidae	Columbidae	soybean	Oilseed	
+France	Europe	1	wood pigeon 	Columbidae	Columbidae	soybean	Oilseed	
+USA	North America	1	canada geese	Anatidae	Anatidae	soybean	Oilseed	
+France	Europe	1	carrion crows	Corvidae	Corvidae	soy	Oilseed	
+France	Europe	1	rooks	Corvidae	Corvidae	soy	Oilseed	
+Sweden	Europe	2	geese	Anatidae	Anatidae	rapeseed	Oilseed	
+Sweden	Europe	1	geese	Anatidae	Anatidae	rapeseed	Oilseed	
+Sweden	Europe	2	swans	Anatidae	Anatidae	rapeseed	Oilseed	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	rapeseed	Oilseed	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	rapeseed	Oilseed	
+Australia	Australia and Oceania	1	common crane	Gruidae	Gruidae	peanuts	Oilseed	
+Greece	Europe	1	corvid	Corvidae	Corvidae	olive	Oilseed	
+Greece	Europe	1	starling	Sturnidae	Sturnidae	olive	Oilseed	
+USA	North America	1	wood pigeon 	Columbidae	Columbidae	oilseed rape	Oilseed	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	oilseed rape	Oilseed	
+Germany	Europe	1	canada geese	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	garganey	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	greylag goose	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	mallard	Anatidae	Anatidae	oilseed rape	Oilseed	
+United Kingdom	Europe	1	mute swan	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	oilseed rape	Oilseed	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	oilseed rape	Oilseed	
+China	Asia	1	gray crane	Gruidae	Gruidae	oilseed rape	Oilseed	
+China	Asia	1	great egret	Ardeidae	Ardeidae	oilseed rape	Oilseed	
+India	Asia	1	crows	Corvidae	Corvidae	groundnut	Oilseed	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	colza	Oilseed	
+New Zealand	Australia and Oceania	1	greenfinches	Fringillidae	Fringillidae	canola	Oilseed	
+South Africa	Africa	1	crane	Gruidae	Gruidae	canola	Oilseed	
+USA	North America	1	horned larks	Alaudidae	Others	canola	Oilseed	
+New Zealand	Australia and Oceania	1	house sparrows	Passeridae	Passeridae	canola	Oilseed	
+Denmark	Europe	1	geese	Anatidae	Anatidae	sugar beets	Sugar crops	
+Denmark	Europe	1	swan	Anatidae	Anatidae	sugar beets	Sugar crops	
+United Kingdom	Europe	1	skylark	Alaudidae	Others	sugar beets	Sugar crops	
+Israel	Asia	1	chukar	Phasianidae	Phasianidae	sugar beets	Sugar crops	
+Sweden	Europe	2	geese	Anatidae	Anatidae	beet	Sugar crops	
+Sweden	Europe	2	swans	Anatidae	Anatidae	beet	Sugar crops	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	beet	Sugar crops	
+Sweden	Europe	1	geese	Anatidae	Anatidae	potato	Root crops	
+Sweden	Europe	1	common crane	Gruidae	Gruidae	potato	Root crops	
+China	Asia	1	bar-headed goose	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	eurasian teal	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	eurasin wigeon	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	garganey	Anatidae	Anatidae	potato	Root crops	
+Sweden	Europe	2	geese	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	greylag goose	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	mallard	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	ruddy shelduck	Anatidae	Anatidae	potato	Root crops	
+Sweden	Europe	2	swans	Anatidae	Anatidae	potato	Root crops	
+China	Asia	1	black-necked crane	Gruidae	Gruidae	potato	Root crops	
+Sweden	Europe	2	cranes	Gruidae	Gruidae	potato	Root crops	
+China	Asia	1	gray crane	Gruidae	Gruidae	potato	Root crops	
+China	Asia	1	great egret	Ardeidae	Ardeidae	potato	Root crops	
+Spain	Europe	1	house sparrow	Passeridae	Passeridae	pepper	Spice crops	
+Greece	Europe	1	corvid	Corvidae	Corvidae	nut	Nuts	
+Greece	Europe	1	starling	Sturnidae	Sturnidae	nut	Nuts	
+USA	North America	2	american crows	Corvidae	Corvidae	almond	Nuts	
+Australia	Australia and Oceania	2	regent parrot 	Psittacidae	Psittacidae	almond	Nuts	
+Dominican Republic	North America	1	woodpecker	Picidae	Others	cacao	Beverage crop	
+Australia	Australia and Oceania	1	Raven	Corvidae	Corvidae	grape	Fruit	
+Australia	Australia and Oceania	1	Mynah	Sturnidae	Sturnidae	grape	Fruit	
+USA	North America	1	blackbird	Turdidae	Turdidae	sunflower	Oilseed	
+Ireland	Europe	1	crow	Corvidae	Corvidae	wheat	Cereals	
