@@ -1,8 +1,5 @@
 rm(list = ls())
 
-# Script for data processing from the RAW data for the ARID project
-# by Arpan Kumar Basak
-
 require(tidyverse)
 require(readxl)
 
